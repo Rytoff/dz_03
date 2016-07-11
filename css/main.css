@@ -22,7 +22,7 @@ header h1	{
 .top_nav	{
 	width: 1050px;
 	margin: 0 auto;
-	background-color: rgba(0,0,0,.70);
+	background: linear-gradient(#5b5b5b, #444);
 	color: white;
 }
 .top_nav li	{
